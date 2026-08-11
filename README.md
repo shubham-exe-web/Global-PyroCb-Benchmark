@@ -1,6 +1,6 @@
 # The Global PyroCb Benchmark 🔥🛰️
 
-[![Dataset](https://img.shields.io/badge/Dataset-Zenodo-blue.svg)](https://zenodo.org/records/21610178)
+[![Dataset](https://img.shields.io/badge/Dataset-Zenodo-blue.svg)](https://doi.org/10.5281/zenodo.21884456)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
